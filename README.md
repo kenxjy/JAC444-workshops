@@ -16,12 +16,12 @@ Below is a list of workshops I have completed:
 - [x] Workshop 5 - Inner Classes and Anonymous Classes in Java, Event Driven Programming using Swing
     - A continuation of workshop 4.
     - Implement a GUI using Swing for creating Student objects
-- [] Workshop 6 - In-depth with Swing and JavaFX
-- [] Workshop 7*
-- [] Workshop 8*
-- [] Workshop 9*
-- [] Workshop 10*
-- [] Workshop 11*
+- [ ] Workshop 6 - In-depth with Swing and JavaFX
+- [ ] Workshop 7*
+- [ ] Workshop 8*
+- [ ] Workshop 9*
+- [ ] Workshop 10*
+- [ ] Workshop 11*
 
 *These workshops topics have not been released
 
